@@ -1,3 +1,3 @@
 # Coding README.md
 
-Minesweeper Game
+Coding projects
